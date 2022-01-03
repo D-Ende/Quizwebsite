@@ -1,0 +1,40 @@
+{
+  "Schueler": [
+    {
+      "name": "Andreas",
+      "joker": 19,
+      "blamiert": 2,
+      "fragen": 22
+    },
+    {
+      "name": "Juliane",
+      "joker": 0,
+      "blamiert": 0,
+      "fragen": 5
+    },
+    {
+      "name": "Hanna",
+      "joker": 0,
+      "blamiert": 0,
+      "fragen": 7
+    },
+    {
+      "name": "Oliver",
+      "joker": 2,
+      "blamiert": 1,
+      "fragen": 3
+    },
+    {
+      "name": "Peter",
+      "joker": 0,
+      "blamiert": 1,
+      "fragen": 5
+    },
+    {
+      "name": "Christof",
+      "joker": 12,
+      "blamiert": 3,
+      "fragen": 15
+    }
+  ]
+}
